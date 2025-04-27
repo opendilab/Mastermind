@@ -1,0 +1,6 @@
+wandb
+pandas
+sentencepiece
+transformers==4.39.1
+bitsandbytes==0.42.0
+peft==0.6.2
